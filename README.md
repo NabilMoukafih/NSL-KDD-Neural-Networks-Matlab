@@ -1,8 +1,7 @@
 # NSL-KDD-Neural-Networks-Matlab
 
 Short description:
-This code was used in one of the early projects I was working on. We were interested in indentifying the impact of the some parameters in *
-neural networks on the the classification accuracy. 
+This code was used in one of the early projects I was working on. We were interested in identifying the impact of certain parameters in neural networks on the accuracy of classification. The model used the NSL-KDD dataset and the implementation was done in Matlab.
 
 
 If you used in of these codes. Please consider citing our paper: 
